@@ -1,4 +1,4 @@
-                                    # 👋 Hi, I’m Saida Salam
+# 👋 Hi, I’m Saida Salam
 **Front-End Developer | React • Vue • JavaScript • TypeScript**
 
 🌍 Luton, UK  
