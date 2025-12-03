@@ -1,16 +1,12 @@
-<h1 text-align="center"> 👋 Hi, I’m Saida Salam</h1>
-A passionate Software Developer in the UK
+<h1 align="center"> 👋 Hi, I’m Saida Salam</h1>
+<h3 align="center">A passionate Software Developer in the UK</h3>
 
-🌍 Luton, UK  
-📧 saidasalam80@gmail.com  
-🔗 [LinkedIn](#)
+
 
 ---
 
 ## 👩‍💻 About Me
-I’m a Front-End Developer with experience in React, Vue.js, JavaScript, HTML, CSS, and PHP/Laravel.  
-I build responsive, user-friendly web applications and reusable UI components.  
-After gaining experience in the UK, I’m fully focused on returning to my IT career and contributing to impactful projects.
+I'm a Software Engineer / Full Stack Developer skilled in building responsive, user-focused web applications. I have strong backend experience with PHP, Laravel, and MySQL, and have worked on scalable CRM systems, dynamic websites, and custom CMS platforms. I also have hands-on experience with JavaScript frameworks like Vue.js. I recently completed my MSc in Computer Science from Coventry University (2024).
 
 ---
 
