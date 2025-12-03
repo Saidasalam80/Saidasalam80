@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Saida Salam
+<h1 text-align="center"> 👋 Hi, I’m Saida Salam</h1>
 A passionate Software Developer in the UK
 
 🌍 Luton, UK  
