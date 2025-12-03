@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Saida Salam
-**Front-End Developer | React • Vue • JavaScript • TypeScript**
+A passionate Software Developer in the UK
 
 🌍 Luton, UK  
 📧 saidasalam80@gmail.com  
