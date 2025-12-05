@@ -8,9 +8,9 @@
 
 I'm a Software Engineer / Full Stack Developer skilled in building responsive, user-focused web applications. I have strong backend experience with PHP, Laravel, and MySQL, and have worked on scalable CRM systems, dynamic websites, and custom CMS platforms. I also have hands-on experience with JavaScript frameworks like Vue.js. I recently completed my MSc in Computer Science from Coventry University (2024).
 
----
-
-## 🚀 Tech Stack
+<ul>
+  <li>Currently working as a Freelance Web Developer</li>
+</ul>
 **Frontend:** React, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind  
 **Backend:** PHP, Laravel  
 **Database:** MySQL  
